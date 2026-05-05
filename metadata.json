@@ -1,0 +1,8 @@
+{
+  "name": "RestaurantePro",
+  "description": "Sistema completo de pedidos digitais, checkout de mesas e painel administrativo em tempo real.",
+  "requestFramePermissions": [
+    "camera"
+  ],
+  "majorCapabilities": []
+}
